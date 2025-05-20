@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Le Zhang"
+title: "Le Zhang(张乐)"
 author_profile: true
 redirect_from: 
   - /about/
