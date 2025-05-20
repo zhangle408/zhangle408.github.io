@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer of NanJing XiaoZhuang University, Nanjing China. My research interest includes computer vision, image steganography.
+I am a Lecturer of NanJing XiaoZhuang University, Nanjing China. My research interest includes computer vision, image steganography, and model compression.
 
-I have received the B.S. degree in communication engineering from the Renai College, Tianjin University, Tianjin, China, in 2016, and the M.S. degree in information and communication engineering from Yanshan University, Qinhuangdao, China, in 2019. I have received the Ph.D. degree with the Harbin Institute of Technology (Shenzhen), Shenzhen, China.
+I have received my Ph.D. degree from the Harbin Institute of Technology (Shenzhen), supervised by Prof. Guangming Lu(2020-2024). Before joining HITsz, 
+I have received my M.S. degree in information and communication engineering from Yanshan University under the supervision of Prof. Zhengping Hu. 
+[Email]:zhangle408@gmail.com
 
-[Email](zhangle408@gmail.com)/[Github](https://github.com/zhangle408)
+[Github](https://github.com/zhangle408)
 
 
 Selected publications:
