@@ -1,6 +1,4 @@
 ---
-
-
 1. Le Zhang, Yao Lu, Tong Li, and Guangming Lu. Joint Adaptive Robust Steganography Network. IEEE Transactions on Industrial Informatics, 2024.（[Paper](https://ieeexplore.ieee.org/abstract/document/10518172)）
 
 2. Yao Lu, Le Zhang, Xiaofei Yang, and Yicong Zhou. Efficient Harmonic Neural Networks With Compound Discrete Cosine Transform Filters and Shared Reconstruction Filters. IEEE Transactions on Neural Networks and Learning Systems, 2024.（[Paper](https://ieeexplore.ieee.org/document/9783450)）（[Code](https://github.com/zhangle408/EH-Nets)）
